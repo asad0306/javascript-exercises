@@ -8,9 +8,6 @@ const reverseString = function(str) {
 }
 
 
-// Do not edit below this line
-module.exports = reverseString;
-
 /*const reverseString = function(reverse) {
 if (reverse === "hello") {
      return "olleh";
@@ -23,3 +20,7 @@ if (reverse === "hello") {
 }
 
 };*/
+
+
+// Do not edit below this line
+module.exports = reverseString;
